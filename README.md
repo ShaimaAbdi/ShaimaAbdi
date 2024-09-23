@@ -37,8 +37,7 @@ A PHP-based system developed for UDUB Films as part of my System Analysis and De
 ## Fun Facts
 - I love exploring new technologies and frameworks.
 
-![Shaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaimaAbdi&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaimaAbdi&layout=compact&theme=radical)
-
+![ShaimaAbdi's Stats](https://github-readme-stats.vercel.app/api?username=ShaimaAbdi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ⏳ More In Progress
