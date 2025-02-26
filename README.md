@@ -13,7 +13,6 @@ Iam a Passionate Python Programming🐍| Machine Learning Enthusiast | Advocate 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ## My Tools 
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
@@ -35,11 +34,10 @@ A PHP-based system developed for UDUB Films as part of my System Analysis and De
 - [Email](mailto:youremail@shaima.abdisalat@gmail.com)
 
 ## Fun Facts
-- I love exploring new technologies and frameworks.
+- I love exploring new technologies.
 
 ![ShaimaAbdi's Stats](https://github-readme-stats.vercel.app/api?username=ShaimaAbdi&theme=vue-dark&show_icons=true&hide_border=true&count_public=true) 
 ![ShaimaAbdi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaimaAbdi&theme=vue-dark&hide_border=true)
-![ShaimaAbdi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaimaAbdi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 ⏳ More In Progress
